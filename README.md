@@ -49,10 +49,10 @@ The following technology stack is currently being used:
 | iproute2        | v5.5.0       |
 | iptables        | v1.8.4       |
 | kmod            | v26          |
-| kubectl         | v1.17.3      |
-| kubernetes      | v1.17.3      |
+| kubectl         | v1.18.1      |
+| kubernetes      | v1.18.1      |
 | nss-cacert      | v3.51        |
-| podman          | v1.8.2       |
+| podman          | v1.9.0       |
 | runc            | v1.0.0-rc10  |
 | socat           | v1.7.3.4     |
 | sysctl          | v1003.1.2008 |
